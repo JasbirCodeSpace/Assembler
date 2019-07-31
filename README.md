@@ -1,4 +1,4 @@
 # Assembler  - System programming assignment
 
 
-<span style="color:pink"> Objective : To display various tables of different symbols maintained by an assembler </span>
+<div class="text-blue"> Objective : To display various tables of different symbols maintained by an assembler </div>
