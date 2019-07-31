@@ -8,4 +8,4 @@
 ![POT Page](/images/POT.png)
 ![Register Page](/images/Register.png)
 ![Symbol Page](/images/Symbol.png)
-![Directives Page](/images/Directives.png)
+![Directives Page](/images/directives.png)
