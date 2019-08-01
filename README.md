@@ -1,7 +1,7 @@
-# Assembler  - System programming assignment
+# Assembler(using HTML and PHP)  - System programming assignment
 
 
-### Objective : To display various tables of different symbols maintained by an assembler 
+### Objective : To display various tables maintained by an assembler
 
 ![Home Page](/images/home.png)  ![MOT Page](/images/MOT.png)
 ![POT Page](/images/POT.png)  ![Register Page](/images/Register.png)
